@@ -1,0 +1,10 @@
+D:\Adrian Bece Designs\Programming\FoodlyApp\FoodlyApp\bin\Debug\FoodlyApp.exe
+D:\Adrian Bece Designs\Programming\FoodlyApp\FoodlyApp\bin\Debug\FoodlyApp.pdb
+D:\Adrian Bece Designs\Programming\FoodlyApp\FoodlyApp\obj\Debug\FoodlyApp.csprojResolveAssemblyReference.cache
+D:\Adrian Bece Designs\Programming\FoodlyApp\FoodlyApp\obj\Debug\FoodlyApp.foodlyImages.resources
+D:\Adrian Bece Designs\Programming\FoodlyApp\FoodlyApp\obj\Debug\FoodlyApp.foodlyLogin.resources
+D:\Adrian Bece Designs\Programming\FoodlyApp\FoodlyApp\obj\Debug\FoodlyApp.Properties.Resources.resources
+D:\Adrian Bece Designs\Programming\FoodlyApp\FoodlyApp\obj\Debug\FoodlyApp.csproj.GenerateResource.Cache
+D:\Adrian Bece Designs\Programming\FoodlyApp\FoodlyApp\obj\Debug\FoodlyApp.exe
+D:\Adrian Bece Designs\Programming\FoodlyApp\FoodlyApp\obj\Debug\FoodlyApp.pdb
+D:\Adrian Bece Designs\Programming\FoodlyApp\FoodlyApp\obj\Debug\FoodlyApp.rtbx_address.resources
